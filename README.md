@@ -4,6 +4,18 @@ An open API that centralize all pools data in real time.
 Domaine name
 project is currently in building
 
+## Start the project: 
+
+To start the project you need to install nodejs on your computer.
+
+Clone the project : 
+`git clone https://github.com/Nesslax/Open-pool-api/`
+
+Install dependecies : 
+`npm install`
+
+Start the project : 
+`npm start `
 
 ## Exemple
 -https://openpoolapi.com/COIN/PoolName/Adress
