@@ -15,6 +15,9 @@ project is currently in building
 Pool Started :
 
 nanopool - In progress- (ETH, RVN)
+
 2miners - In progress - (ETH, RVN, ETC)
+
 Hiveon - TODO - ( ETH, ETC)
+
 f2pool - TODO - (BTC, BCH, LTC, ETH, ETC, ZEC, ZEN, HNS, CKB, RVN ...)
