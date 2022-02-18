@@ -12,12 +12,12 @@ project is currently in building
  you will receive all information relative to what is happening in you
 
 
-##Pool Started :
+## Pool Started :
 
-nanopool - In progress- (ETH, RVN)
+- nanopool - In progress- (ETH, RVN)
 
-2miners - In progress - (ETH, RVN, ETC)
+- 2miners - In progress - (ETH, RVN, ETC)
 
-Hiveon - TODO - ( ETH, ETC)
+- Hiveon - TODO - ( ETH, ETC)
 
-f2pool - TODO - (BTC, BCH, LTC, ETH, ETC, ZEC, ZEN, HNS, CKB, RVN ...)
+- f2pool - TODO - (BTC, BCH, LTC, ETH, ETC, ZEC, ZEN, HNS, CKB, RVN ...)
