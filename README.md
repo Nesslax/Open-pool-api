@@ -12,7 +12,7 @@ project is currently in building
  you will receive all information relative to what is happening in you
 
 
-Pool Started :
+##Pool Started :
 
 nanopool - In progress- (ETH, RVN)
 
