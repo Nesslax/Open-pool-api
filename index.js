@@ -5,6 +5,7 @@ const port = 3030
 
 
 const nanopoolRoutes = require("./pools/nanopool/routes.js");
+const 2minerspoolRoutes = require("./pools/nanopool/routes.js");
 
 
 //setupLogging(app);
@@ -14,6 +15,7 @@ app.get('/ping', (req, res) => {
 })
 
 app.use("/nanopool", nanopoolRoutes);
+app.use("/2miners", 2minerspoolRoutes);
 
 app.listen(port, () => {
   console.log(`Example app listening on port ${port}`)
