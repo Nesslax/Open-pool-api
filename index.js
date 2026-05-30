@@ -1,7 +1,11 @@
 const express = require('express')
+const { metricsMiddleware, metricsHandler } = require('./src/metrics');
 const app = express()
 //const {setupLogging} = require("./logging");
 const port = 3030
+
+app.use(metricsMiddleware);
+app.get('/metrics', metricsHandler);
 
 
 const nanopoolRoutes = require("./pools/nanopool/routes.js");
