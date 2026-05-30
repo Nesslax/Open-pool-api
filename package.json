@@ -33,6 +33,7 @@
     "mongo-sanitize": "^1.1.0",
     "morgan": "^1.10.0",
     "png-to-jpeg": "^1.0.1",
+    "prom-client": "^15.1.3",
     "sharp": "^0.27.2"
   }
 }
